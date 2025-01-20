@@ -2,11 +2,10 @@
 
 A customizable React Spin Wheel Game component that allows users to create an interactive spinning wheel with dynamic segments and colors. This component supports event callbacks for spin start and stop, and displays the selected segment after each spin.
 **Key Features:**
-
-    * Dynamic Segments: Pass custom numbers and colors for each segment via props.
-    * Event Callbacks: Trigger actions on spin start (onSpinStart) and spin stop (onSpinStop) events.
-    * Interactive Animation: Smooth spinning animation with randomized rotation.
-    * Result Display: Automatically calculates and displays the selected segment after the spin.
+* Dynamic Segments: Pass custom numbers and colors for each segment via props.
+* Event Callbacks: Trigger actions on spin start (onSpinStart) and spin stop (onSpinStop) events.
+* Interactive Animation: Smooth spinning animation with randomized rotation.
+* Result Display: Automatically calculates and displays the selected segment after the spin.
 
 **Usage:**
 
