@@ -1,4 +1,5 @@
-Usage Example:
+## Usage Example:
+```
 const segmentswheel = [
     { number: "100", color: "#db7093" },
     { number: "50", color: "#20b2aa" },
@@ -14,9 +15,12 @@ const handleSpinStart = () => {
 const handleSpinStop = (result) => {
   console.log(`Spin stopped! Result: ${result}`);
 };
+```
 
+```
 <SpinWheel
   segments={segmentswheel}
   onSpinStart={handleSpinStart}
   onSpinStop={handleSpinStop}
 />
+```
