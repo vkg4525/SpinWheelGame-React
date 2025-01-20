@@ -8,10 +8,9 @@ A customizable React Spin Wheel Game component that allows users to create an in
 * Result Display: Automatically calculates and displays the selected segment after the spin.
 
 **Usage:**
-
-    * Add your custom segments (numbers and colors) as props.
-    * Handle spin events using onSpinStart and onSpinStop callbacks.
-    * Easily integrate into any React project.
+* Add your custom segments (numbers and colors) as props.
+* Handle spin events using onSpinStart and onSpinStop callbacks.
+* Easily integrate into any React project.
     
 ## Example:
 ```
